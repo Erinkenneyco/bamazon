@@ -10,10 +10,10 @@ The customer interface allows the user to view the current inventory of store it
 
 To run the customer interface please follow the steps below:
 
-git clone git@github.com:Erinkenneyco/bamazon.git
-cd bamazon
-npm install
-node bamazonCustomer.js
+* git clone git@github.com:Erinkenneyco/bamazon.git
+* cd bamazon
+* npm install
+* node bamazonCustomer.js
 
 
 ## Manager Interace
@@ -37,10 +37,10 @@ The Quit option allows the user to quit the application.
 
 To run the manager interface please follow the steps below:
 
-git clone git@github.com:Erinkenneyco/bamazon.git
-cd bamazon
-npm install
-node bamazonManager.js
+* git clone git@github.com:Erinkenneyco/bamazon.git
+* cd bamazon
+* npm install
+* node bamazonManager.js
 
 ## Supervisor Interface
 The supervisor interface presents a list of three options, as below:
@@ -57,10 +57,10 @@ The Quit option allows you to exist the application.
 
 To run the supervisor interface please follow the steps below:
 
-git clone git@github.com:Erinkenneyco/bamazon.git
-cd bamazon
-npm install
-node bamazonSupervisor.js
+* git clone git@github.com:Erinkenneyco/bamazon.git
+* cd bamazon
+* npm install
+* node bamazonSupervisor.js
 
 
 ## Bamazon Demo
