@@ -19,12 +19,13 @@ To run the customer interface please follow the steps below:
 ## Manager Interace
 The manager interface presents a list of five options, as below.
 
-? Please select an option: (Use arrow keys)
-❯ View Products for Sale 
-  View Low Inventory 
-  Add to Inventory 
+? What would you like to do? (Use arrow keys)
+> View Products for Sale
+  View Low Inventory
+  Add to Inventory
   Add New Product
   Quit
+  
 The View Products for Sale option allows the user to view the current inventory of store items: item IDs, descriptions, department in which the item is located, price, and the quantity available in stock.
 
 The View Low Inventory option shows the user the items which currently have fewer than 100 units available.
