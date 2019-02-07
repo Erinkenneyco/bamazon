@@ -16,7 +16,7 @@ npm install
 node bamazonCustomer.js
 
 
-##Manager Interace
+## Manager Interace
 The manager interface presents a list of five options, as below.
 
 ? Please select an option: (Use arrow keys)
