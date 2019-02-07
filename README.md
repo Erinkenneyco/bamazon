@@ -49,6 +49,7 @@ The supervisor interface presents a list of three options, as below:
 > View Product Sales by Department
   Create New Department
   Quit
+  
 The View Product Sales by Department allows the user to view the current sales by each department.
 
 The Create New Department option allows the user to create a new department and create the overhead cost of that department. 
@@ -66,4 +67,4 @@ To run the supervisor interface please follow the steps below:
 ## Bamazon Demo
 You can download and watch the demo of the Bamazon customer and manager interface and the supervisor interface at the link below. Make sure to download the video, as opposed to watching it in your Browser, which will display a compressed version making the CLI output illegible.
 
-Bamazon Demo : 
+Bamazon Demo : https://drive.google.com/file/d/1uwLuHXQ42G3HQz2DgMzID56Iwf6NWoyd/view
